@@ -1,0 +1,7 @@
+== README
+
+Training exercise. Microblogging site.
+
+Rails Course 2015-2016 @Devscola (http://devscola.org)
+
+https://www.railstutorial.org/book/
